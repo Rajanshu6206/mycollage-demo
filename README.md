@@ -21,9 +21,10 @@ git status = to check the status
              3. STAGED     = ( File is ready to be commited )
              4. UNMODIFIED = ( Unchanged )
 
-git clone           = To copy the file or folder from remote to the desktop
-ls                  = To check the list of files and folders.
-clean               = To clean the terminal
-ls -a               = To find hidden files 
-git add /(git .)    = To modifiey changes in file
-commit              = To take screanshort of changes
+git clone                   = To copy the file or folder from remote to the desktop
+ls                          = To check the list of files and folders.
+clean                       = To clean the terminal
+ls -a                       = To find hidden files 
+git add /(git .)            = To modifiey changes in file
+commit                      = To take screanshort of changes
+push (git push origin main) = To uplod local repo content to remote repo.
