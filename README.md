@@ -15,6 +15,7 @@ git config list
 
 
 <P>There are some command used in terminal</p>
+<pre>
 git status = to check the status
              1. UNTRACKED  = (new files that git doesn't yet track)
              2. MODIFIED   = (changed)
@@ -27,4 +28,4 @@ clean                       = To clean the terminal
 ls -a                       = To find hidden files 
 git add /(git .)            = To modifiey changes in file
 commit                      = To take screanshort of changes
-push (git push origin main) = To uplod local repo content to remote repo.
+push (git push origin main) = To uplod local repo content to remote repo.</pre>
